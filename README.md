@@ -5,11 +5,11 @@ Patterns Included
 
 1. Behavioral Patterns
 
-   Chain of Responsibility: Pass requests along a chain of handlers until one of them processes the request.
-   Iterator: Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
-   Observer: Define a one-to-many dependency so that when one object changes state, all its dependents are notified.
-   Strategy: Define a family of algorithms, encapsulate each one, and make them interchangeable.
-   Visitor: Represent an operation to be performed on elements of an object structure without changing their classes.
+   - Chain of Responsibility: Pass requests along a chain of handlers until one of them processes the request.
+   - Iterator: Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+   - Observer: Define a one-to-many dependency so that when one object changes state, all its dependents are notified.
+     Strategy: Define a family of algorithms, encapsulate each one, and make them interchangeable.
+     Visitor: Represent an operation to be performed on elements of an object structure without changing their classes.
 
 2. Creational Patterns
 
